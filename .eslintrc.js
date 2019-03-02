@@ -2,6 +2,7 @@ module.exports = {
   "extends": [
     "google",
     "plugin:react/recommended",
+    "plugin:node/recommended",
   ],
   plugins: [
     "babel",
